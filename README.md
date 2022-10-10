@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mehr 
+- 👋 Hi, I’m Mehr (Like "more" in German)
 - ❤️‍🔥 I’m an energetic self-taught junior Frontend Engineer working with React and Typescript
 - 🌱 I’m looking to collaborate on interesting open-source React projects.
 - 📫 Feel free to reach me at mehrnoosh.beniss@gmail.com
