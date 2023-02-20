@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mehrnosh! :)
-- ❤️‍🔥 I’m a passionate and bubbly self-taught juniorEngineer, currently mostly focused on the Front.
+- ❤️‍🔥 I’m a passionate and bubbly self-taught junior Engineer, currently mostly focused on the Front.
 - 📫 Feel free to reach me at mehrnooshbeniss@gmail.com
 
 <!---
