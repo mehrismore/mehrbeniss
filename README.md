@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Mehr (Like "more" in German)
-- ❤️‍🔥 I’m an energetic self-taught junior Frontend Engineer working with React and Typescript
-- 🌱 I’m looking to collaborate on interesting open-source React projects.
-- 📫 Feel free to reach me at mehrnoosh.beniss@gmail.com
+- 👋 Hi, I’m Mehrnosh! :)
+- ❤️‍🔥 I’m a passionate and bubbly self-taught juniorEngineer, currently mostly focused on the Front.
+- 📫 Feel free to reach me at mehrnooshbeniss@gmail.com
 
 <!---
 mehrbeniss/mehrbeniss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
