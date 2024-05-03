@@ -1,5 +1,7 @@
-Hiya! I am Mehr - like more in German ;)
+Hiya! I am Mehr - like more in German D
+
 ❤️‍🔥 I’m a bubbly self-taught Engineer since 2020! 
+
 💌 Feel free to reach me @ 
 
 ## mehrismore
